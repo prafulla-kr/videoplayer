@@ -6,11 +6,10 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I have made this flutter app with the help of tutorials available on YouTube and various sites.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I have only implemented firebase authentication and a landscape video player.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We just have register on the app when we open for the first time.
+
+If loggged out, we just have to sign in again to watch the video.
